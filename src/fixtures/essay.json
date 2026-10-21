@@ -1,0 +1,39 @@
+{
+  "id": "sample-yavas-okuma",
+  "title": "Yavaş okumanın savunusu",
+  "sourceType": "md",
+  "tableLocale": "tr",
+  "chunks": [
+    {
+      "id": "c-001",
+      "text": "Okumak bir hız yarışı değildir. Metin, üzerine eğilince iskeletini gösteren bir yapıdır. Tempo düşünce cümleler birbirine bağlanır; acele edince yalnızca yüzey kalır.",
+      "page": 1,
+      "start": 0,
+      "end": 164
+    },
+    {
+      "id": "c-002",
+      "text": "Yavaş okumak, her kelimeyi hecelemek değildir. Daha çok, bir cümlenin neden orada durduğunu sormaktır. Okur, yazarın seçimine tanık olur.",
+      "page": 1,
+      "start": 166,
+      "end": 302
+    },
+    {
+      "id": "c-003",
+      "text": "Bir metnin iskeleti iddialardan, gerekçelerden, olgulardan ve çekincelerden kurulur. Bunları ayırt etmeden yapılan özet, metni düzleştirir.",
+      "page": 2,
+      "start": 304,
+      "end": 441
+    },
+    {
+      "id": "c-004",
+      "text": "Sarı işaret, henüz bir yer imi değildir. Enter’a basınca pasaj belgede saklanır. Tabulect ise seçileni — veya uyarıdan sonra bütün yer imlerini — CLI’ye yollar.",
+      "page": 2,
+      "start": 443,
+      "end": 607
+    }
+  ],
+  "rows": [],
+  "bookmarks": [],
+  "outputs": []
+}
